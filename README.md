@@ -11,9 +11,8 @@ Me chamo Caroline da Costa Calandrine, tenho 26 anos e sou natural de Belém do 
 <img 
   width="30"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img 
+  src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="30">
 <img
   width="30"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img 
-  src="https://img.icons8.com/color/96/power-bi.png" width="30">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40">
