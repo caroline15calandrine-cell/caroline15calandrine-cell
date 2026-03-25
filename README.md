@@ -14,3 +14,5 @@ Me chamo Caroline da Costa Calandrine, tenho 26 anos e sou natural de Belém do 
 <img
   width="30"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img 
+  src="https://img.icons8.com/color/48/power-bi.png" width="40">
